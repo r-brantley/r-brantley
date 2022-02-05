@@ -1,6 +1,6 @@
 Hi.  
 
-I have been tinkering with computers since BBSs were a thing and have worked in Health IT for the last 20 years.
+I have been tinkering with computers since BBSs were a thing and have worked since the 00s as a business leader and entreprenuer in healthcare IT.
 
 I'm interested in all things DevSecOps, automation, and bridging disparate systems through integration tools and code.
 
